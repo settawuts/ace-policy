@@ -33,7 +33,7 @@ If you wish to remove your data or disconnect your account from our application,
 
 ### Method 2: Direct Contact Request
 You can request full account and data deletion directly from our team:
-* **Email:** support@yourdomain.com *(กรุณาเปลี่ยนเป็นอีเมลของคุณ)*
+* **Email:** pures.s@hotmail.com
 * **Subject:** Request Account Data Deletion
 * **Processing Time:** Requests will be processed within 7-14 business days.
 
@@ -41,4 +41,4 @@ You can request full account and data deletion directly from our team:
 
 ## Contact Us
 If you have any questions or concerns regarding this policy, please contact us at:
-* **Email:** support@yourdomain.com *(กรุณาเปลี่ยนเป็นอีเมลของคุณ)*
+* **Email:** pures.s@hotmail.com
